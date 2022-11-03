@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fleoliaolei%2Fredis.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fleoliaolei%2Fredis?ref=badge_shield)
+
 This README is just a fast *quick start* document. You can find more detailed documentation at [redis.io](https://redis.io).
 
 What is Redis?
@@ -504,3 +506,7 @@ cover everything. We just want to help you with the first steps.
 Eventually you'll find your way inside the Redis code base :-)
 
 Enjoy!
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fleoliaolei%2Fredis.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fleoliaolei%2Fredis?ref=badge_large)
